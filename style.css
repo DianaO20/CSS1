@@ -1,0 +1,75 @@
+
+
+
+.class1 {
+    color: rgb(73, 168, 144);
+    border: 1px solid rgb(0, 0, 0);
+    margin:8px 32px 32px 16px ;
+    padding: 32px 16p
+}
+.class2 {
+    color: rgb(73, 168, 144);
+   
+}
+.class3 {
+    color: rgb(240, 197, 157);
+    
+}
+
+.class4 {
+    color: rgb(247, 181, 138);
+    border: 1px solid rgb(0, 0, 0);
+    margin:8px ;
+    height: 75px;
+    width: 75px;
+    
+}
+
+.class5 {
+    color: rgb(240, 197, 157);
+    height: 50px;
+    width: 250px;
+    border: 1px solid green;
+    margin: 50px;
+}
+.class6 {
+    color: rgb(240, 197, 157);
+    height: 25px;
+    width: 250px/4;
+    border: 1px solid rgb(202, 247, 144);
+    margin: 50px;
+}
+.class7 {
+    color: rgb(255, 205, 158);
+    top: 50px;
+    margin-left: 50px;
+}
+.class4:hover{
+    border-color: rgb(255, 13, 13);
+} 
+.class3:hover{
+    color: rgb(203, 134, 243);
+} 
+
+
+
+
+h4{
+    color: rgb(0, 100, 67);
+}
+    
+    h4::after{
+        content: "dupa";
+margin-right: 8px;
+
+    }
+    h4::before{
+        content: "inainte";
+margin-right: 8px;
+
+    }
+    
+
+
+
+
